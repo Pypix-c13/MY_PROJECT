@@ -4,7 +4,7 @@ def process(data, mode):
     if not shutil.which("python") and not shutil.which("python3"):
         print("Python/Python3 not found! please install to use this tools!")
     content = open(data, 'r').read() if os.path.exists(data) else data
-    
+
     if mode == "--hex":
         return "0x" + content.encode().hex()
     if mode == "--binary":
