@@ -5,5 +5,5 @@ mendukung TOML configuration file yang memudahkan siapa saja untuk menulis manif
 # Example code
 ### Make new Project
 ```
-bash vpack.sh 
+bash vpack.sh --template [data|script|resource] my_project ~/Downloads
 ```
