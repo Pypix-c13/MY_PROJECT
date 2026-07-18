@@ -15,3 +15,7 @@ bash vpack.sh --package [--mcpack|--mcaddon] ~/Downloads/my_project
 ```
 python targeted.py ~/Downloads/my_project/init.toml
 ```
+### Global env
+```
+bash global.sh
+```
