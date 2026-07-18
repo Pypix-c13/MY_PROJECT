@@ -5,7 +5,7 @@ import subprocess
 
 def main():
     if len(sys.argv) < 3:
-        print("Usage: script.py --compile <config.toml>")
+        print("Usage: targeted.py --compile <config.toml>")
         sys.exit(1)
 
     arg = sys.argv[1]
