@@ -13,5 +13,5 @@ bash vpack.sh --package [--mcpack|--mcaddon] ~/Downloads/my_project
 ```
 ### Parsing TOML configuration
 ```
-python targeted.py
+python targeted.py ~/Downloads/my_project/init.toml
 ```
