@@ -22,29 +22,14 @@ def append_alias_to_bashrc(alias_name, command):
             file.write("\n")
         file.write(alias_line)
 
-
 def main():
-    files = Path(sys.argv[1])
-    if files.suffix != ".toml":
-        print(f"Error: File {files} doesn't support TOML extension!.\n")
+    if len(sys.argv) < 3:
+        print("usage: python glb.py [alias_name: str] [command: str]")
         sys.exit(1)
-    if not files.exists() and not files.is_file():
-        print("Error: No such file or directory!.\n")
-        sys.exit(1)
-
-    with open(files, "rb") as file:
-        config = tomllib.load(file)
-
-    alias_name = config.get("alias_name")
-    command = config.get("command")
-
-    if not alias_name or not command:
-        print("Error: alias_name and command must be set in the TOML file.\n")
-        sys.exit(1)
-
-    append_alias_to_bashrc(alias_name, command)
-    print(f"Added alias '{alias_name}' to {Path.home() / '.bashrc'}")
-
+    
+    alias_name = sys.argv[1]
+    command = sys.argv[2]
+    append_alias_to_bashrc(alias_name=alias_name, command=command)
 
 if __name__ == "__main__":
     main()
