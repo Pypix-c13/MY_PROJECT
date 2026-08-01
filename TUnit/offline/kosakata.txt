@@ -1,82 +1,109 @@
 alt : tua
 aus : dari
 Bäcker : pembuat roti laki-laki
-Bäckerin : pembuat roti perempuan
 Bäckerei : toko roti
+Bäckerin : pembuat roti perempuan
 Bibliothek : perpustakaan
 billig : murah
 bist : apakah / (kamu) adalah
 bitte : tolong / silakan / sama-sama
+brauchen : membutuhkan / memerlukan
 Brot : roti
 Bruder : saudara laki-laki
 Café : kafe
+cool : keren
 da drüben : di sana
 Danke : terima kasih
+draußen : di luar
 du : kamu
+durstig : haus
+er : dia (laki-laki)
 Frau : istri / perempuan / Nyonya
 Freut mich : senang bertemu denganmu
 frisch : segar
+Fußball : sepak bola
+gehe : (saya) pergi
+gehen : pergi
 groß : besar
 gut : bagus / baik
-guten morgen : selamat pagi
-hallo : halo
+Guten Morgen : selamat pagi
+Hallo : halo
+Handy : ponsel
 hier : di sini
-hugrig (haus / hungrig) : lapar
+hungrig : lapar
 ich : saya
 ich bin : saya adalah
 ist : adalah
 ja : ya
 joggen : joging / lari santai
-Käse : keju
 Kaffee : kopi
+Käse : keju
 Kekse : kue kering
 klein : kecil
 komme : (saya) datang
+laut : berisik / keras (suara)
 lecker : enak
 Lehrer : guru pria
 Lehrerin : guru wanita
 links : kiri
 lustig : menyenangkan / lucu
 machen : membuat / melakukan
+macht : (dia/itu) membuat
+macht nie : tidak pernah melakukan / membuat
 Mama : ibu
 Mann : suami / laki-laki
-macht : (dia/itu) membuat / mungkin
-macht nie : tidak pernah
+mehr : lebih banyak
 mein : kepunyaan (untuk maskulin/netral)
 meine : kepunyaan (untuk feminin/plural)
 Milch : susu
 mit : dengan
-Musiker : pemegang musik / musisi / penyanyi pria
+Mobiltelefon : ponsel
+müde : lelah / mengantuk
+Musik : musik
+Musiker : musisi / penyanyi pria
 Musikerin : musisi / penyanyi wanita
+nach Hause : pulang / ke rumah
 nein : tidak
 nett : ramah
-oft : sering
+nie : tidak pernah
 oder : atau
+oft : sering
 Papa : ayah
 Park : taman
+Party : pesta
 rechts : kanan
 Restaurant : restoran
 Salat : salat / selada
 satt : kenyang
+Schatz : sayang
+Schokolade : cokelat
 schön : indah / cantik
 Schwester : saudara perempuan
 schwimmen : berenang
+sehr : sangat
 sie : dia (perempuan) / mereka
 Sohn : anak laki-laki
 Sport : olahraga
 sportlich : atletis
 Stadt : kota
+Taxi : taksi
 Tee : teh
+Tennis : tenis
 Tochter : anak perempuan
+Toilette : toilet
+trinken : minum
+trinkst : (kamu) minum / apakah (kamu) minum
 Tschüss : dadah / sampai jumpa
 U-Bahn : kereta bawah tanah
 und : dan
-Verkäuferin : penjual wanita
 Verkäufer : penjual pria
-wandern : mendaki (kata kerja)
+Verkäuferin : penjual wanita
 Wanderer : pendaki laki-laki
 Wanderin : pendaki perempuan
+wandern : mendaki (kata kerja)
 Wasser : air
+wir : kita / kami
 wo : di mana
 Wurst : sosis
+zu : terlalu
 Zucker : gula
