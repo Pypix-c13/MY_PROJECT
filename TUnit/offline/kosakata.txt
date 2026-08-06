@@ -1,82 +1,94 @@
 alt : tua
-aus : dari
-Bäcker : pembuat roti laki-laki
+aus : dari (asal/keluar)
+Bäcker : pembuat roti (laki-laki)
 Bäckerei : toko roti
-Bäckerin : pembuat roti perempuan
+Bäckerin : pembuat roti (perempuan)
 Bibliothek : perpustakaan
 billig : murah
-bist : apakah / (kamu) adalah
+bist : (kamu) adalah / apakah (kamu)
 bitte : tolong / silakan / sama-sama
 brauchen : membutuhkan / memerlukan
 Brot : roti
 Bruder : saudara laki-laki
 Café : kafe
 cool : keren
-da drüben : di sana
+da drüben : di sebelah sana
 Danke : terima kasih
 draußen : di luar
 du : kamu
 durstig : haus
 er : dia (laki-laki)
-Frau : istri / perempuan / Nyonya
+Frau : istri / wanita / Nyonya
+Freund : teman
 Freut mich : senang bertemu denganmu
 frisch : segar
 Fußball : sepak bola
 gehe : (saya) pergi
 gehen : pergi
+Glas : gelas
 groß : besar
 gut : bagus / baik
 Guten Morgen : selamat pagi
 Hallo : halo
-Handy : ponsel
+Handy : ponsel / HP
 hier : di sini
+höflich : sopan
 hungrig : lapar
 ich : saya
 ich bin : saya adalah
-ist : adalah
+ins : ke dalam (in das)
+ist : adalah / ada
 ja : ya
 joggen : joging / lari santai
 Kaffee : kopi
 Käse : keju
-Kekse : kue kering
+Kekse : kue-kue kering (jamak)
+Kellner : pelayan / pramusaji
 klein : kecil
-komme : (saya) datang
-laut : berisik / keras (suara)
-lecker : enak
-Lehrer : guru pria
-Lehrerin : guru wanita
+komisch : aneh / lucu
+komme : (saya) datang / berasal
+Kuchen : kue
+laut : keras (suara) / berisik
+lecker : enak / lezat
+Lehrer : guru (pria)
+Lehrerin : guru (wanita)
 links : kiri
-lustig : menyenangkan / lucu
+lustig : lucu / menyenangkan
 machen : membuat / melakukan
-macht : (dia/itu) membuat
-macht nie : tidak pernah melakukan / membuat
+macht : (dia/itu) membuat / melakukan
+macht nie : tidak pernah membuat / melakukan
 Mama : ibu
-Mann : suami / laki-laki
+Mann : pria / suami
 mehr : lebih banyak
-mein : kepunyaan (untuk maskulin/netral)
-meine : kepunyaan (untuk feminin/plural)
+mein : kepunyaan saya (maskulin/netral)
+meine : kepunyaan saya (feminin/jamak)
 Milch : susu
 mit : dengan
-Mobiltelefon : ponsel
+Mobiltelefon : telepon genggam / ponsel
 müde : lelah / mengantuk
 Musik : musik
-Musiker : musisi / penyanyi pria
-Musikerin : musisi / penyanyi wanita
-nach Hause : pulang / ke rumah
-nein : tidak
-nett : ramah
+Musiker : musisi / penyanyi (pria)
+Musikerin : musisi / penyanyi (wanita)
+nach Hause : (pulang) ke rumah
+nein : tidak / bukan
+nett : ramah / baik hati
 nie : tidak pernah
+Obst : buah-buahan
 oder : atau
 oft : sering
 Papa : ayah
 Park : taman
 Party : pesta
+pünktlich : tepat waktu
 rechts : kanan
 Restaurant : restoran
 Salat : salat / selada
 satt : kenyang
-Schatz : sayang
+sauber : bersih
+Schade : sayang sekali
+Schatz : sayang (panggilan kesayangan)
 Schokolade : cokelat
+schmeckt : terasa / rasanya (makanan/minuman)
 schön : indah / cantik
 Schwester : saudara perempuan
 schwimmen : berenang
@@ -84,11 +96,14 @@ sehr : sangat
 sie : dia (perempuan) / mereka
 Sohn : anak laki-laki
 Sport : olahraga
-sportlich : atletis
+sportlich : atletis / gemar berolahraga
 Stadt : kota
+Suppe : sup
+süß : manis
 Taxi : taksi
 Tee : teh
 Tennis : tenis
+Tisch : meja
 Tochter : anak perempuan
 Toilette : toilet
 trinken : minum
@@ -96,14 +111,19 @@ trinkst : (kamu) minum / apakah (kamu) minum
 Tschüss : dadah / sampai jumpa
 U-Bahn : kereta bawah tanah
 und : dan
-Verkäufer : penjual pria
-Verkäuferin : penjual wanita
-Wanderer : pendaki laki-laki
-Wanderin : pendaki perempuan
-wandern : mendaki (kata kerja)
+Verkäufer : penjual (pria)
+Verkäuferin : penjual (wanita)
+Wanderer : pendaki / pejalan kaki (pria)
+Wanderin : pendaki / pejalan kaki (wanita)
+wandern : mendaki / berjalan jauh
+warm : hangat
+Was ist los? : Ada apa? / Ada masalah apa?
 Wasser : air
 wir : kita / kami
 wo : di mana
 Wurst : sosis
-zu : terlalu
+zu : terlalu / ke
 Zucker : gula
+Guten Tag : selamat sore
+Guten Abend : selamat malam
+Vielleicht : mungkin
